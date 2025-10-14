@@ -1,0 +1,2 @@
+Main-Class: EMSMain
+Class-Path: libs/mysql-connector-j-9.4.0.jar
