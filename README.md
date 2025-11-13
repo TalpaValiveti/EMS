@@ -1,11 +1,11 @@
-===========================================
+========================================
 EMPLOYEE MANAGEMENT SYSTEM (EMS)
-===========================================
+========================================
 
-Developer: Talpa Saivaliveti
-Date: October 14, 2025
-Technology Stack: Java, Swing, MySQL, JDBC
-Version: 1.0
+- Developer: Talpa Saivaliveti
+- Date: October 14, 2025
+- Technology Stack: Java, Swing, MySQL, JDBC
+- Version: 1.0
 -------------------------------------------
 
 PROJECT OVERVIEW
